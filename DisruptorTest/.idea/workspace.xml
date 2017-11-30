@@ -27,7 +27,7 @@
       <file leaf-file-name="BinTreeTraverse.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yzyy/erchashu/BinTreeTraverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
+            <state relative-caret-position="0">
               <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -36,13 +36,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinTreeTraverseTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinTreeTraverseTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/yzyy/erchashu/BinTreeTraverseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="87" column="29" lean-forward="true" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AVLTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yzyy/pinghengerchashu/AVLTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="586" column="14" lean-forward="false" selection-start-line="586" selection-start-column="14" selection-end-line="586" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#15188#15189#0" expanded="true" />
+                <element signature="e#15241#15242#0" expanded="true" />
+                <element signature="e#15706#15707#0" expanded="true" />
+                <element signature="e#15747#15748#0" expanded="true" />
+                <element signature="e#16441#16442#0" expanded="true" />
+                <element signature="e#16488#16489#0" expanded="true" />
+                <element signature="e#16773#16782#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadWriteLockDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yzyy/rwlock/ReadWriteLockDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-468">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="e#1634#1947#0" expanded="true" />
+                <element signature="e#1946#1947#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,11 +129,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/yzyy/xccsore/ExecutorsSorE.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yzyy/duizhan/DivTask.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yzyy/duizhan/TraceThreadPoolExecutor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yzyy/rwlock/ReadWriteLockDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yzyy/bingxing/Div.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yzyy/forkandjoin/CountTask.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yzyy/erchashu/BinTreeTraverse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yzyy/erchashu/BinTreeTraverseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzyy/pinghengerchashu/AVLTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzyy/rwlock/ReadWriteLockDemo.java" />
       </list>
     </option>
   </component>
@@ -131,10 +166,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="x" value="273" />
+    <option name="y" value="139" />
+    <option name="width" value="1374" />
+    <option name="height" value="839" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -151,7 +186,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DisruptorTest" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DisruptorTest" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="DisruptorTest" type="58d84e3e:PackageViewProjectNode" />
+              <item name="DisruptorTest" type="616d4139:PackageViewModuleNode" />
+              <item name="com.yzyy.dist" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,7 +242,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="yzyy" type="462c0819:PsiDirectoryNode" />
-              <item name="erchashu" type="462c0819:PsiDirectoryNode" />
+              <item name="pinghengerchashu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DisruptorTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DisruptorTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yzyy" type="462c0819:PsiDirectoryNode" />
+              <item name="rwlock" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DisruptorTest" type="b2602c69:ProjectViewProjectNode" />
@@ -213,6 +272,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -230,23 +291,6 @@
               <item name="DisruptorTest" type="cbb8eebc:String" user="DisruptorTest" />
               <item name="src/main/java" type="cbb8eebc:String" user="src/main/java" />
               <item name="com/yzyy/dist" type="cbb8eebc:String" user="com/yzyy/dist" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DisruptorTest" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DisruptorTest" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="DisruptorTest" type="58d84e3e:PackageViewProjectNode" />
-              <item name="DisruptorTest" type="616d4139:PackageViewModuleNode" />
-              <item name="com.yzyy.dist" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -276,7 +320,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinTreeTraverseTest">
+  <component name="RunManager" selected="Application.AVLTree">
+    <configuration name="AVLTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.yzyy.pinghengerchashu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.yzyy.pinghengerchashu.AVLTree" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DisruptorTest" />
+      <envs />
+    </configuration>
     <configuration name="BinTreeTraverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -342,25 +405,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.yzyy.duizhan.DivTask" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DisruptorTest" />
-      <envs />
-    </configuration>
-    <configuration name="ExtThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.yzyy.tzxcc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.yzyy.tzxcc.ExtThreadPool" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -454,19 +498,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ExtThreadPool" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DivTask" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CountTask" />
-      <item index="3" class="java.lang.String" itemvalue="Application.BinTreeTraverse" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BinTreeTraverseTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.DivTask" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CountTask" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BinTreeTraverse" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BinTreeTraverseTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AVLTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BinTreeTraverseTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BinTreeTraverse" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CountTask" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DivTask" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ExtThreadPool" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AVLTree" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BinTreeTraverseTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.BinTreeTraverse" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CountTask" />
+        <item index="4" class="java.lang.String" itemvalue="Application.DivTask" />
       </list>
     </recent_temporary>
   </component>
@@ -500,12 +544,13 @@
       <workItem from="1511746386052" duration="10926000" />
       <workItem from="1511774532754" duration="862000" />
       <workItem from="1511830119418" duration="15232000" />
-      <workItem from="1511915848342" duration="3868000" />
+      <workItem from="1511915848342" duration="9360000" />
+      <workItem from="1512001645122" duration="2488000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65818000" />
+    <option name="totallyTimeSpent" value="73798000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -529,11 +574,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2032258" sideWeight="0.50692964" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25134265" sideWeight="0.65085286" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2561629" sideWeight="0.65085286" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19462365" sideWeight="0.57995737" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17750533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18017058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955405" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494331" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -566,20 +611,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/lmax/disruptor/3.3.6/disruptor-3.3.6.jar!/com/lmax/disruptor/dsl/Disruptor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-240">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/yzyy/bingxing/Multiply.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/com/yzyy/bingxing/AppClassBX.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-271">
@@ -659,18 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzyy/rwlock/ReadWriteLockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-936">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1561#1874#0" expanded="false" />
-            <element signature="e#1873#1874#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yzyy/duizhan/DivTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -710,10 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#166#167#0" expanded="false" />
-            <element signature="e#200#201#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -877,7 +892,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -885,7 +899,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -893,7 +906,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1152">
           <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -909,7 +921,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yzyy/erchashu/BinTreeTraverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
+        <state relative-caret-position="0">
           <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -927,10 +939,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yzyy/erchashu/BinTreeTraverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="87" column="29" lean-forward="true" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_121/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3055">
+          <caret line="104" column="19" lean-forward="false" selection-start-line="104" selection-start-column="19" selection-end-line="104" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzyy/pinghengerchashu/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="586" column="14" lean-forward="false" selection-start-line="586" selection-start-column="14" selection-end-line="586" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#15188#15189#0" expanded="true" />
+            <element signature="e#15241#15242#0" expanded="true" />
+            <element signature="e#15706#15707#0" expanded="true" />
+            <element signature="e#15747#15748#0" expanded="true" />
+            <element signature="e#16441#16442#0" expanded="true" />
+            <element signature="e#16488#16489#0" expanded="true" />
+            <element signature="e#16773#16782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzyy/rwlock/ReadWriteLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#1634#1947#0" expanded="true" />
+            <element signature="e#1946#1947#0" expanded="true" />
           </folding>
         </state>
       </provider>
